@@ -31,8 +31,12 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imGurnish&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&bg_color=0D1117&title_color=3F8FF7&icon_color=3F8FF7&text_color=FFFFFF&border_color=3F8FF7"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imGurnish&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&bg_color=0D1117&title_color=3F8FF7&text_color=FFFFFF&border_color=3F8FF7"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imGurnish&theme=tokyonight" alt="GitHub Profile Summary"/>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imGurnish&theme=tokyonight" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imGurnish&theme=tokyonight" alt="Top Languages"/>
 </div>
 
 <div align="center">
@@ -40,15 +44,16 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imGurnish&theme=tokyo-night&bg_color=0D1117&color=3F8FF7&line=3F8FF7&point=FFFFFF&area=true&hide_border=false&border_color=3F8FF7&radius=10" alt="Contribution Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imGurnish&theme=tokyonight" alt="Productive Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imGurnish&theme=tokyonight" alt="Repos Per Language"/>
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imGurnish&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7&bg_color=0D1117&title_color=3F8FF7&text_color=FFFFFF&border_color=3F8FF7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imGurnish&theme=tokyonight" alt="GitHub Achievements" width="80%"/>
 </div>
 
 ---
@@ -97,21 +102,39 @@
 
 <div align="center">
 
-  <a href="https://github.com/imGurnish/WisdomHub">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imGurnish&repo=WisdomHub&theme=tokyonight&border_radius=10&bg_color=0D1117&title_color=3F8FF7&icon_color=3F8FF7&text_color=FFFFFF&border_color=3F8FF7" />
-  </a>
-  
-  <a href="https://github.com/imGurnish/Outsource-Now">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imGurnish&repo=Outsource-Now&theme=tokyonight&border_radius=10&bg_color=0D1117&title_color=3F8FF7&icon_color=3F8FF7&text_color=FFFFFF&border_color=3F8FF7" />
-  </a>
+### 🎓 [WisdomHub](https://github.com/imGurnish/WisdomHub)
+[![Repo](https://img.shields.io/badge/Repository-View%20on%20GitHub-blue?style=for-the-badge&logo=github)](https://github.com/imGurnish/WisdomHub)
 
-</div>
+Platform where students and educators share books, question papers, and study materials with ease.
 
-<div align="center" style="margin-top: 20px;">
+**Tech Stack:** 
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 
-  <a href="https://github.com/imGurnish/Locksy">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imGurnish&repo=Locksy&theme=tokyonight&border_radius=10&bg_color=0D1117&title_color=3F8FF7&icon_color=3F8FF7&text_color=FFFFFF&border_color=3F8FF7" />
-  </a>
+---
+
+### 💼 [OutsourceNow](https://github.com/imGurnish/Outsource-Now)
+[![Repo](https://img.shields.io/badge/Repository-View%20on%20GitHub-blue?style=for-the-badge&logo=github)](https://github.com/imGurnish/Outsource-Now)
+
+Freelancing platform frontend built with Vite for fast development and seamless user experience.
+
+**Tech Stack:**
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+---
+
+### 🔐 [Locksy](https://github.com/imGurnish/Locksy)
+[![Repo](https://img.shields.io/badge/Repository-View%20on%20GitHub-blue?style=for-the-badge&logo=github)](https://github.com/imGurnish/Locksy)
+
+Cross-platform password manager app with encryption, working seamlessly on all devices.
+
+**Tech Stack:**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Encryption](https://img.shields.io/badge/Encryption-AES256-green?style=flat-square&logo=lock&logoColor=white)
 
 </div>
 
@@ -140,6 +163,14 @@
 ---
 
 ## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://ssr-contributions-svg.vercel.app/_/imGurnish?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=30&theme=purple" alt="3D Contribution Graph"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imGurnish&custom_title=Contribution%20Activity%20Graph&bg_color=0D1117&color=3F8FF7&line=00D9FF&point=FFFFFF&area=true&hide_border=false&border_color=3F8FF7" alt="Activity Graph"/>
+</div>
 
 <div align="center">
   
